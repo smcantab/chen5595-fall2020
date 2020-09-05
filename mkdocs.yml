@@ -1,3 +1,4 @@
+
 site_name: "CHEN 5595: Data Driven Discovery for the Chemical Sciences, Fall 2020"
 
 extra_css:
@@ -10,7 +11,7 @@ theme:
     favicon: 'umn-icon2.png'
     logo: 'umn-icon2.png'
 
-pages:
+nav:
   - About: index.md
   - Organization: organization.md
   - Calendar: calendar.md
