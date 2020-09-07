@@ -22,7 +22,7 @@ _Data-driven Science and Engineering_ by S. L. Brunton and J. N. Kutz ([video le
 - Assignments will be posted by the end of Friday and are **due by the end of Friday (23:59)** of the following week.
 - Submit homework through [Canvas course page](https://canvas.umn.edu/courses/193402).
 - The **worst grade does not count** (see scholastic dishonesty for exceptions), but you cannot skip any assignments (if you do it counts).
-- You can be late by 2 days **once**, for whatever reason. There can be additional accommodations in the case of properly documented family emergencies or illness.
+- You can be late by 2 days **once**, for whatever reason. Any time after that, late work will not be accepted. There can be additional accommodations in the case of properly documented family emergencies or illness.
 - I encourage you to collaborate on homework, but **please do so through Piazza** to the extent that is possible. However, you must come up with your own solutions and write your own code. So, when answering questions on Piazza guide your classmates towards the solution, do **not** post fully worked solutions.
 
 ## Grading Policy

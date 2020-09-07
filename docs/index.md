@@ -20,7 +20,7 @@ After an overview of the fundamental concepts necessary to tackle the subject, n
 **TA office hours**:
 
 ## Communication
-**Class discussion**: Please use Piazza ([sign-up link](https://piazza.com/umn/fall2020/chen5595)) for anything technical e.g. homework or general project-related questions, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try to answer your classmates' work through questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+**Class discussion**: Please use Piazza ([sign-up link](https://piazza.com/umn/fall2020/chen5595)) for anything technical e.g. homework or general project-related questions, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
 
 **Assignments**: will be posted on [Canvas course page](https://canvas.umn.edu/courses/193402). Also submit your work via Canvas.
 
