@@ -12,7 +12,7 @@ Lecture | Date  | Topic        | Readings | Project
 8       | 10/1  |              |          |
 9       | 10/6  |              |          |
 10      | 10/8  |              |          |
-11      | 10/13 |              |          |
+11      | 10/13 |              |          | 1st TA sign-off deadline
 12      | 10/15 |              |          |
 13      | 10/20 |              |          | Project proposal
 14      | 10/22 |              |          | 10 min talk
@@ -25,6 +25,7 @@ Lecture | Date  | Topic        | Readings | Project
 21      | 11/19 |              |          | Progress report
 22      | 11/24 |              |          |
 23      | 12/1  |              |          |
+23      | 12/1  |              |          | 2nd TA sign-off deadline
 24      | 12/3  |              |          |
 25      | 12/8  |              |          |
 26      | 12/10 |              |          | Final report

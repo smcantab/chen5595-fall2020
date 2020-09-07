@@ -4,13 +4,15 @@
 
 There are many great resources for learning Python. Here are some of my and my students' favourites.
 
-### Conda/Anaconda
+### Conda/Anaconda/pip
 For a local installation of Python with many of the Data Science libraries you may want to use, I recommend installing Conda/Anaconda.
 
 - [Anaconda](https://www.anaconda.com/products/individual)
     - [Installers](https://www.anaconda.com/products/individual)
     - [Documentation](https://docs.anaconda.com/anaconda/)
     - [Available ML packages](https://www.anaconda.com/open-source)
+- [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) is a package installer for Anaconda.
+- [pip](https://pip.pypa.io/en/stable/quickstart/) is the Python package installer, it works similarly to conda.
 
 ## Integrated Development Environment (IDE)
 There are many great IDEs to write Python code, I list below some of the most popular and easier to use.
@@ -32,11 +34,11 @@ There are many great IDEs to write Python code, I list below some of the most po
 - [Moving to Python from other languages](https://wiki.python.org/moin/MovingToPythonFromOtherLanguages)
 
 ### IPython/Jupyter notebooks
-- [Jupyter](https://jupyter.org/)/[Juputer Lab](https://jupyterlab.readthedocs.io/en/stable/) are shipped with [Anaconda][1]
+- [Jupyter](https://jupyter.org/)/[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) are shipped with [Anaconda][1]
 - [nbviewer](https://nbviewer.jupyter.org/) is another way of sharing Jupyter notebooks
 - [Google Colaboratory (Colab)](https://colab.research.google.com/notebooks/intro.ipynb) enables collaborative editing of ipython notebooks and has its own computational resource (even GPUs! [How to enable GPUs and other Colab tutorials](https://www.tutorialspoint.com/google_colab/google_colab_using_free_gpu.htm))
 - [Binder](https://mybinder.org/) is a tool to turn your GitHub repository in a "binder" of iPython notebooks. It is hosted on JupyterHub, but no easy/free GPUs I'm afraid!
-- [MSI Jupyter Notebooks service](https://www.msi.umn.edu/support/faq/how-do-i-get-started-jupyter-notebooks). If you need more computational resources I suggest you use the MSI Jupyter Notebook service. You need to register as part of a PI's research group (they will have to lend you some of their MSI compute time).
+- [MSI Jupyter Notebooks service](https://www.msi.umn.edu/support/faq/how-do-i-get-started-jupyter-notebooks). If you need more computational resources I suggest you use the MSI Jupyter Notebook service. I am negotiating some compute time for you to use on MSI as part of this course. Alternatively, you can register as part of a PI's research group, if they are willing to lend you some of their MSI compute time.
 
 ## Libraries
 This is a nonexhaustive list of some of the better known Python libraries in this area, or less known but that I know of and like. Many of these libraries are shipped with the [Anaconda][1] installation.

@@ -7,17 +7,17 @@ After an overview of the fundamental concepts necessary to tackle the subject, n
 
 ## Practical Information
 
-**Location**: lectures will be held virtually via Zoom (link on [Canvas course page](https://canvas.umn.edu/courses/193402))
+**Location**: lectures will be held virtually via [Zoom at Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146)
 
 **Time**: Tuesdays & Thursdays 11:00-12:15 am CDT   
 
 **Instructor**: [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)  
 
-**Instructor office hours**: Thursday 1:30 pm CDT
+**Instructor office hours**: Thursday 1:30-2:30 pm CDT
 
 **Teaching Assistant**: [Rishabh Gupta](https://www.cems.umn.edu/people/grads/rishabh-gupta)  (he/him)  
 
-**TA office hours**:
+**TA office hours**: Wednesday 1:30-2:30 pm CDT and Friday 10:00-12:00 am CDT
 
 ## Communication
 **Class discussion**: Please use Piazza ([sign-up link](https://piazza.com/umn/fall2020/chen5595)) for anything technical e.g. homework or general project-related questions, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
