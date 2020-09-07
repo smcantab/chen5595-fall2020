@@ -28,4 +28,6 @@ After an overview of the fundamental concepts necessary to tackle the subject, n
 
 ## Pre-requisites
 
-You must be either a MatS/ChEn graduate student or an upper-division MatS/ChEn major who has taken ChEn 3201, MatS 3141. Students from other PhD programs/majors need to receive instructor's approval. You must have a comfortable knowledge of linear algebra and multivariate calculus. Familiarity with probabilities will be helpful but not strictly necessary. You must know at least one programming language, ideally Python. I will assume that you can transition to writing simple programs in Python autonomously (see ...).
+You must be either a MatS/ChEn graduate student or an upper-division MatS/ChEn major who has taken ChEn 3201, MatS 3141. Students from other PhD programs/majors need to receive instructor's approval. You must have a comfortable knowledge of linear algebra and multivariate calculus. Familiarity with probabilities will be helpful but not strictly necessary. You must know at least one programming language, ideally Python. I will assume that you can transition to writing simple programs in Python autonomously (see [Python Resources][1]).
+
+[1]: resources.md#python

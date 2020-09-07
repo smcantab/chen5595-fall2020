@@ -1,15 +1,15 @@
 # Project
 
-The project is the focal point of this course. It will provide you with an opportunity to go through the full research cycle: You will have to assemble a team, identify an idea, write a proposal, conduct the research, write a report in the format of a research paper, and present it to your peers.
+The project is the focal point of this course. It will provide you with an opportunity to go through the full research cycle: You will have to assemble a team, identify an idea, write a proposal, conduct the research, write a report in the format of a research paper, and present it to your peers. The best possible outcome would be a publishable or close to publishable project. Start early, you have a lot to learn and last minute projects will likely do poorly.
 
 ## Timeline
 
-- Register team (names) by Sept 29 (Tu week 4)
-- Project proposal (1-2 pages) due Oct 20 (Tu week 7)
-- Talk (10 minutes) on Oct 22 (Th week 7)
-- Progress report (2-3 pages) on Nov 19 (Tu week 11)   
-- Final report on Dec 10 (Th week 14)
-- Talk (20 minutes) on Dec 15 (last day of instruction)
+- **Register team** (names) by Sept 29 (Tu week 4)
+- **Project proposal** (1-2 pages) due Oct 20 (Tu week 7)
+- **Talk** (10 minutes) on Oct 22 (Th week 7)
+- **Progress report** (2-3 pages) on Nov 19 (Tu week 11)   
+- **Final report** on Dec 10 (Th week 14)
+- **Talk** (20 minutes) on Dec 15 (last day of instruction)
 
 ## The team
 
@@ -17,17 +17,37 @@ You should identify class mates with common interest to form teams of 3-4 studen
 
 ## Research Idea
 
-The scope of the project is to produce original work at the interface of Machine Learning and Materials Science/Chemical Engineering. This is encompasses an extremely broad spectrum of research topics, from synthetic chemistry to catalysis, to biomedical or biological engineering, to systems engineering, and much more. A good rule of thumb is to look at all the (Core and Graduate) faculty in CEMS: if you come up with an idea, and there is some faculty member working in that same general area, then it is fair game.
+The scope of the project is to produce original work at the interface of Machine Learning and Materials Science/Chemical Engineering. This encompasses an extremely broad spectrum of research topics, from synthetic chemistry to catalysis, to biomedical or biological engineering, to systems engineering, and much more. A good rule of thumb is to look at all the ([Core](https://www.cems.umn.edu/people/faculty/) and [Graduate](https://www.cems.umn.edu/people/grad-faculty/)) faculty in CEMS: if you come up with an idea, and there is some faculty member working in that same general area, it is fair game.
 
 ### Faculty
 
-I encourage you to consult with faculty with active research programs in an area that you may be interested in, as they may have data or ideas for possible research projects. This is an non-exhaustive list of faculty that you might be interested in talking to for directions on a project idea: Ellad Tadmor (AEM), Ryan Elliot (AEM), Qi Zhang (CEMS), Prodromos Daoutidis (CEMS), Ben Hackel (CEMS), Jason Goodpaster (Chemistry), Ilja Siepmann (Chemistry).
+I encourage you to consult with faculty with active research programs in an area that you may be interested in, as they may have data or ideas for possible research projects. This is  non-exhaustive list of faculty that you might be interested in talking to (one or more of them, some are theorists and some are experimentalists) for some directions/data: Ellad Tadmor (AEM), Ryan Elliot (AEM), Qi Zhang (CEMS), Prodromos Daoutidis (CEMS), Ben Hackel (CEMS), Samira Azarin (CEMS), Wei-Shou Hu (CEMS), David Poerschke (CEMS), Casim Sarkar (BME), Jason Goodpaster (Chemistry), Ilja Siepmann (Chemistry).
+
+## Reports
+
+All reports must be written in Latex using the [NeurIPS style file](https://www.overleaf.com/latex/templates/neurips-2019/tprktwxmqmgk). I suggest you use [Overleaf](https://www.overleaf.com/project) for collaborative writing, it will also reduce the chance that you will run into problems with installations of Latex across platforms. The reports must present your work in a reproducible way. I encourage you to prioritize quality over quantity: a 20 pages report will not necessarily get a better score than a 6 pages report. You **must** reference the GitHub repository with the code that you used to produce your analysis.
 
 ## Talks
 
-Presentation will be during regular classes  should be made with slides via Zoom by one or more team members, it is up to you how you decide to allocate the time.
+Presentation will be during regular classes and should be made with slides via Zoom by one or more team members, it is up to you how you decide to allocate the time. A good heuristic is to have 1 or fewer slides per minute. Rehearse the talks with your team prior to the class presentations.
 
-must talk to TA at least once
+## TA sign-off
+
+Your team must attend office hours to talk to the TA about your project at least once before the proposal and the final report is due. Overall these two meetings count 10% of the final project score.
+
+## Grading
+
+The final project score breakdown goes as follows:
+
+- **Meeting deadline to assemble team**: 10%
+- **First sign off from TA**: 5%
+- **Proposal report (1-2 pages)**: 5%
+- **Proposal talk (10 min)**: 5%
+- **Progress report (2-3 pages)**: 10%
+- **Second sign off from TA**: 5%
+- **Final written report (6-20 pages)**: 40%
+- **Final presentation (20 min)**: 20%
+
 
 ## FAQ
 

@@ -2,7 +2,7 @@
 
 Lecture | Date  | Topic        | Readings | Project
 --------|-------|--------------|----------|--------
-1       | 9/8   | Course intro |          |
+1       | 9/8   | Course intro |          | Start assembling team
 2       | 9/10  |              |          |
 3       | 9/15  |              |          |
 4       | 9/17  |              |          |

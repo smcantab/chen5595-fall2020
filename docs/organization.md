@@ -30,10 +30,10 @@ _Data-driven Science and Engineering_ by S. L. Brunton and J. N. Kutz ([video le
 Your grade will be based on these components:  
 
 - **Homework**: 50%
-- **Project**:
-    - **Proposal & talk**: 5%
-    - **Progress report**: 5%
-    - **Final report & talk**: 40%
+- **Project**: 50% (see [Project Grading][1] for the detailed breakdown)
+
+[1]: project.md#grading
+
 
 ## Scholastic dishonesty
 If we determine that there has been a clear instance of scholastic dishonesty, the work will be given a **score of 0** (even if it's the project!) and **it will count** towards the final grade. In addition the case will be reported to OCS.
