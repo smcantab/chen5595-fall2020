@@ -15,10 +15,10 @@ For a local installation of Python with many of the Data Science libraries you m
 ## Integrated Development Environment (IDE)
 There are many great IDEs to write Python code, I list below some of the most popular and easier to use.
 
-- [Spyder](https://www.spyder-ide.org/), ships with [Anaconda][1]. It was developed specifically for scientific computing and it has a Matlab-like feel. So unless you already use another IDE, go with this.
+- [Spyder](https://www.spyder-ide.org/), ships with [Anaconda][1]. It was developed specifically for scientific computing and it has a Matlab-like feel. Unless you already use another IDE, or have a strong preference, go with this.
 - [PyCharm](https://www.jetbrains.com/pycharm/). You can get the professional edition for free registering with your UMN account.
-- [Atom](https://atom.io/) is what I use. It is highly customizable, but needs some work to set up for Python, _e.g._ see this [blog](https://medium.com/issuehunt/20-atom-plug-ins-for-python-development-d6b10f8fa33e).
-- [Sublime Text](https://www.sublimetext.com/) is similar to Atom, to set it up see for instance this [blog](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/).
+- [Atom](https://atom.io/) is what I use. It is highly customizable, but needs some work to be set up as a Python IDE, _e.g._ see this [blog](https://medium.com/issuehunt/20-atom-plug-ins-for-python-development-d6b10f8fa33e).
+- [Sublime Text](https://www.sublimetext.com/) is similar to Atom, to set it up as a Python IDE see for instance this [blog](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/).
 
 ### Guides/Tutorials
 
@@ -36,6 +36,7 @@ There are many great IDEs to write Python code, I list below some of the most po
 - [nbviewer](https://nbviewer.jupyter.org/) is another way of sharing Jupyter notebooks
 - [Google Colaboratory (Colab)](https://colab.research.google.com/notebooks/intro.ipynb) enables collaborative editing of ipython notebooks and has its own computational resource (even GPUs! [How to enable GPUs and other Colab tutorials](https://www.tutorialspoint.com/google_colab/google_colab_using_free_gpu.htm))
 - [Binder](https://mybinder.org/) is a tool to turn your GitHub repository in a "binder" of iPython notebooks. It is hosted on JupyterHub, but no easy/free GPUs I'm afraid!
+- [MSI Jupyter Notebooks service](https://www.msi.umn.edu/support/faq/how-do-i-get-started-jupyter-notebooks). If you need more computational resources I suggest you use the MSI Jupyter Notebook service. You need to register as part of a PI's research group (they will have to lend you some of their MSI compute time).
 
 ## Libraries
 This is a nonexhaustive list of some of the better known Python libraries in this area, or less known but that I know of and like. Many of these libraries are shipped with the [Anaconda][1] installation.
