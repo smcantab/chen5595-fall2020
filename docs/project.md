@@ -21,7 +21,9 @@ The scope of the project is to produce original work at the interface of Machine
 
 ### Faculty
 
-I encourage you to consult with faculty with active research programs in an area that you may be interested in, as they may have data or ideas for possible research projects. This is  non-exhaustive list of faculty that you might be interested in talking to (one or more of them, some are theorists and some are experimentalists) for some directions/data: Ellad Tadmor (AEM), Ryan Elliot (AEM), Qi Zhang (CEMS), Prodromos Daoutidis (CEMS), Ben Hackel (CEMS), Samira Azarin (CEMS), Wei-Shou Hu (CEMS), David Poerschke (CEMS), Casim Sarkar (BME), Jason Goodpaster (Chemistry), Ilja Siepmann (Chemistry).
+I encourage you to consult with faculty with active research programs in an area that you may be interested in, as they may have data or ideas for possible research projects.
+
+This is  nonexhaustive list of faculty that you might be interested in talking to (one or more of them, some are theorists and some are experimentalists) for some directions/data: [Ellad Tadmor](https://cse.umn.edu/aem/ellad-b-tadmor) (AEM), [Ryan Elliot](https://cse.umn.edu/aem/ryan-s-elliott) (AEM), [Qi Zhang](https://www.cems.umn.edu/people/faculty/qi-zhang) (CEMS), [Prodromos Daoutidis](https://www.cems.umn.edu/people/faculty/prodromos-daoutidis) (CEMS), [Ben Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (CEMS), [Samira Azarin](https://www.cems.umn.edu/people/faculty/samira-azarin) (CEMS), [Wei-Shou Hu](https://www.cems.umn.edu/people/faculty/wei-shou-hu) (CEMS), [David Poerschke](https://www.cems.umn.edu/people/faculty/david-poerschke) (CEMS), [Casim Sarkar](http://sarkarlab.umn.edu/) (BME), [Jason Goodpaster](https://cse.umn.edu/chem/jason-goodpaster) (Chemistry), [Ilja Siepmann](https://cse.umn.edu/chem/j-ilja-siepmann) (Chemistry).
 
 ## Reports
 
