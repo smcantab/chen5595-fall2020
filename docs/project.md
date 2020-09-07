@@ -1,6 +1,6 @@
 # Project
 
-The project is the focal point of this course. It will provide you with an opportunity to go through the full research cycle: You will have to assemble a team, identify an idea, write a proposal, conduct the research, write a report in the format of a research paper, and present it to your peers. The best possible outcome would be a publishable or close to publishable project. Start early, you have a lot to learn and last minute projects will likely do poorly.
+The project is the focal point of this course. It will provide you with an opportunity to go through the full research cycle: You will have to assemble a team, identify an idea, write a proposal, conduct the research, write a report in the format of a research paper, and present it to your peers. The best possible outcome would be a publishable or close to publishable project. **Start early**, you have a lot to learn and last minute projects will likely do poorly.
 
 ## Timeline
 
@@ -17,7 +17,7 @@ You should identify class mates with common interest to form teams of 3-4 studen
 
 ## Research Idea
 
-The scope of the project is to produce original work at the interface of Machine Learning and Materials Science/Chemical Engineering. This encompasses an extremely broad spectrum of research topics, from synthetic chemistry to catalysis, to biomedical or biological engineering, to systems engineering, and much more. A good rule of thumb is to look at all the ([Core](https://www.cems.umn.edu/people/faculty/) and [Graduate](https://www.cems.umn.edu/people/grad-faculty/)) faculty in CEMS: if you come up with an idea, and there is some faculty member working in that same general area, it is fair game.
+The scope of the project is to produce original work at the interface of Machine Learning and Materials Science/Chemical Engineering. This encompasses an extremely broad spectrum of research topics, from synthetic chemistry to catalysis, to biomedical or biological engineering, to systems engineering, and much more. A good rule of thumb is to look at all the ([Core](https://www.cems.umn.edu/people/faculty/) and [Graduate](https://www.cems.umn.edu/people/grad-faculty/)) faculty in CEMS: if you come up with an idea, and there is some faculty member working in that same general area, it is probably fair game. If you are unsure, ask us.
 
 ### Faculty
 

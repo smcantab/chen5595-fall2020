@@ -10,7 +10,8 @@
 
 ## Books
 **Main textbook**:  
-_Pattern recognition and Machine Learning_ by C. M. Bishop (free [online version](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))  
+_Pattern recognition and Machine Learning_ by C. M. Bishop (free [online version](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)).  
+[Official errata](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf), [more (unofficial) errata](https://github.com/yousuketakada/prml_errata/blob/master/prml_errata.pdf), [algorithms in Python](https://github.com/ctgk/PRML).
 
 **Additional references**:  
 _Dive into Deep Learning_ (free [online book](https://d2l.ai/) and [video lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW))  
