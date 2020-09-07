@@ -29,7 +29,7 @@ All reports must be written in Latex using the [NeurIPS style file](https://www.
 
 ## Talks
 
-Presentation will be during regular classes and should be made with slides via Zoom by one or more team members, it is up to you how you decide to allocate the time. A good heuristic is to have 1 or fewer slides per minute. Rehearse the talks with your team prior to the class presentations.
+Presentation will be **during regular classes** and should be made with slides via Zoom by one or more team members, it is up to you how you decide to allocate the time. A good heuristic is to have 1 or fewer slides per minute. Rehearse the talks with your team prior to the class presentations. **Talks will be recorded** unless you object to it.
 
 ## TA sign-off
 

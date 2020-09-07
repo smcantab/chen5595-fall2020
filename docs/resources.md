@@ -118,3 +118,6 @@ Git is a version control system that enable the collaborative development/storag
 
 ## Stack Overflow
 [Stack Overflow](https://stackoverflow.com/) is a great forum to find answers to your programming questions and ask new ones if nobody has aver asked the same question. Parsing Stack Overflow is one of the best ways of learning. If you have a programming question, before writing a post on [Piazza](https://piazza.com/umn/fall2020/chen5595) or contacting the [TA](https://www.cems.umn.edu/people/grads/rishabh-gupta), I suggest you check Stack Overflow.
+
+## Other UMN computing Resources
+- [UMN Virtual Online Linux Environment](https://vole.cse.umn.edu/) is a full CSE Labs Linux desktop delivered virtually through an application called FastX. This means you can do homework, programming and even use engineering software from your laptop. As you can connect to the internet, you can connect to a VOLE desktop.
