@@ -106,7 +106,15 @@ This is a nonexhaustive list of some of the better known Python libraries in thi
 ## Data Sets
 - [QM# and other data sets](http://quantum-machine.org/)
 - [MoleculeNet](http://moleculenet.ai/datasets-1)
+- [AFLOW](http://www.aflowlib.org/)
+- [CMR](https://cmr.fysik.dtu.dk/)
+- [OQMD](http://oqmd.org/)
+- [QCArchive](https://qcarchive.molssi.org/)
 - [kaggle _Predicting Molecular Properties_](https://www.kaggle.com/c/champs-scalar-coupling/overview)
+
+## Standards
+- [OPTIMADE](https://www.optimade.org/)
+- [MolSSI](https://molssi.org/software-projects/)
 
 ## Git/GitHub
 Git is a version control system that enable the collaborative development/storage of Software. GitHub is the most popular code hosting platform for version control and collaboration.
