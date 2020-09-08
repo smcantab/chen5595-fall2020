@@ -9,7 +9,7 @@ After an overview of the fundamental concepts necessary to tackle the subject, n
 
 **Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146)
 
-**Time**: Tuesdays & Thursdays 11:00-12:15 am CDT   
+**Time**: Tuesdays & Thursdays 11:15-12:30 am CDT   
 
 **Instructor**: [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)  
 
