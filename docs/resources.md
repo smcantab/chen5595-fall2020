@@ -121,3 +121,8 @@ Git is a version control system that enable the collaborative development/storag
 
 ## Other UMN computing Resources
 - [UMN Virtual Online Linux Environment](https://vole.cse.umn.edu/) is a full CSE Labs Linux desktop delivered virtually through an application called FastX. This means you can do homework, programming and even use engineering software from your laptop. As you can connect to the internet, you can connect to a VOLE desktop.
+
+## Tools for teams
+- [Slack](https://slack.com/) is a communication platform for teams that integrates well with a large number of tools (_e.g._ Google Drive/Calendar, Zoom, GitHub, Workstreams.ai, Slite, etc.)
+- [Workstreams.ai](https://workstreams.ai/) is a Kanban board-like service for task management
+- [Slite](https://slite.com/) is an internal knowledge-base platform for teams. It has a Slack-like interface and it is great way or organizing/sharing notes/knowledge.

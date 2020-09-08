@@ -7,7 +7,7 @@ After an overview of the fundamental concepts necessary to tackle the subject, n
 
 ## Practical Information
 
-**Location**: lectures will be held virtually via [Zoom at Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146)
+**Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146)
 
 **Time**: Tuesdays & Thursdays 11:00-12:15 am CDT   
 

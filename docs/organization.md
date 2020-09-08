@@ -2,7 +2,7 @@
 
 ## Lectures & teaching materials
 
-**Lectures** will be held virtually via [Zoom at Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146). They will be **recorded** an uploaded to YouTube on the same day to an unlisted playlist (link on [Canvas course page](https://canvas.umn.edu/courses/193402)).
+**Lectures** will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146). They will be **recorded** an uploaded to YouTube on the same day to an unlisted playlist (link on [Canvas course page](https://canvas.umn.edu/courses/193402)).
 
 **Notes** will be uploaded to the [Canvas course page](https://canvas.umn.edu/courses/193402) after lectures.
 
