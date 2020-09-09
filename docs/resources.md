@@ -69,9 +69,6 @@ This is a nonexhaustive list of some of the better known Python libraries in thi
 - [ONNX](https://github.com/onnx/onnx)
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) (there are more)
 - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
-- [Plotly Dash](https://plotly.com/dash/)
-    - [Dash gallery](https://dash-gallery.plotly.host/Portal/)
-    - [GitHub page](https://github.com/plotly/plotly.py)
 
 ### ML for Chemistry and Materials
 
@@ -90,12 +87,17 @@ This is a nonexhaustive list of some of the better known Python libraries in thi
     - [Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00908)
 - [DeepPMD](https://github.com/deepmodeling/deepmd-kit)
     - [Manual](http://www.deepmd.org/deepmd-kit-manual/)
+- [ASAP](https://github.com/BingqingCheng/ASAP)
+    - [Paper](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00403)
 
 ### Visualization
 - [Seaborn](https://seaborn.pydata.org/)
     - [Example gallery](https://seaborn.pydata.org/examples/index.html)
 - [Matplotlib](https://matplotlib.org/)
     - [Geeks for Geeks Introduction to Matplotlib](https://www.geeksforgeeks.org/python-introduction-matplotlib/)
+- [Plotly Dash](https://plotly.com/dash/)
+    - [Dash gallery](https://dash-gallery.plotly.host/Portal/)
+    - [GitHub page](https://github.com/plotly/plotly.py)
 
 ### Cheat Sheets
 - [Python for Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
