@@ -24,7 +24,6 @@ Lecture | Date  | Topic        | Readings | Project
 20      | 11/17 |              |          |
 21      | 11/19 |              |          | Progress report
 22      | 11/24 |              |          |
-23      | 12/1  |              |          |
 23      | 12/1  |              |          | 2nd TA sign-off deadline
 24      | 12/3  |              |          |
 25      | 12/8  |              |          |
