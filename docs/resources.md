@@ -89,6 +89,8 @@ This is a nonexhaustive list of some of the better known Python libraries in thi
     - [Manual](http://www.deepmd.org/deepmd-kit-manual/)
 - [ASAP](https://github.com/BingqingCheng/ASAP)
     - [Paper](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00403)
+- [AMP](https://amp.readthedocs.io/en/latest/)
+    - [Paper](https://www.sciencedirect.com/science/article/pii/S0010465516301266?via%3Dihub) 
 
 ### Visualization
 - [Seaborn](https://seaborn.pydata.org/)
