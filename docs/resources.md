@@ -136,3 +136,11 @@ Git is a version control system that enable the collaborative development/storag
 - [Slack](https://slack.com/) is a communication platform for teams that integrates well with a large number of tools (_e.g._ Google Drive/Calendar, Zoom, GitHub, Workstreams.ai, Slite, etc.)
 - [Workstreams.ai](https://workstreams.ai/) is a Kanban board-like service for task management
 - [Slite](https://slite.com/) is an internal knowledge-base platform for teams. It has a Slack-like interface and it is great way or organizing/sharing notes/knowledge.
+
+## Maths
+In addition to the textbooks listed under [Organization/Books][1], you may find useful the following resources:
+
+- [The Matrix Cookbook](matrixcookbook.pdf) is a quick reference guide for matrix identities, relations, etc.
+- [d2l.ai Maths for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) is an informal overview of some of the mathematics required for this course, most of which you know already or that we will cover in the first part of the course.
+
+[1]: organization.md#books
