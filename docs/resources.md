@@ -90,7 +90,7 @@ This is a nonexhaustive list of some of the better known Python libraries in thi
 - [ASAP](https://github.com/BingqingCheng/ASAP)
     - [Paper](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00403)
 - [AMP](https://amp.readthedocs.io/en/latest/)
-    - [Paper](https://www.sciencedirect.com/science/article/pii/S0010465516301266?via%3Dihub) 
+    - [Paper](https://www.sciencedirect.com/science/article/pii/S0010465516301266?via%3Dihub)
 
 ### Visualization
 - [Seaborn](https://seaborn.pydata.org/)
@@ -139,10 +139,13 @@ Git is a version control system that enable the collaborative development/storag
 - [Workstreams.ai](https://workstreams.ai/) is a Kanban board-like service for task management
 - [Slite](https://slite.com/) is an internal knowledge-base platform for teams. It has a Slack-like interface and it is great way or organizing/sharing notes/knowledge.
 
-## Maths
+## Maths/Stats
 In addition to the textbooks listed under [Organization/Books][1], you may find useful the following resources:
 
 - [The Matrix Cookbook](matrixcookbook.pdf) is a quick reference guide for matrix identities, relations, etc.
 - [d2l.ai Maths for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) is an informal overview of some of the mathematics required for this course, most of which you know already or that we will cover in the first part of the course.
+- Datasets with Varied Appearance and Identical Statistics: **The datasaurus dataset**
+    - [Paper](SameStats-DifferentGraphs.pdf)
+    - [Blog](https://www.autodeskresearch.com/publications/samestats)
 
 [1]: organization.md#books
