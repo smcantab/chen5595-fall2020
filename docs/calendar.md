@@ -5,9 +5,9 @@ Lecture | Date  | Topic                                                         
 1       | 9/8   | Course intro                                                                                                                                            | PRML 1.1         | Start assembling team
 2       | 9/10  | Polynomial regression, Intro to Probability Theory                                                                                                      | PRML 1.1-1.2     |
 3       | 9/15  | Probability densities, Moments, Linear Correlation coefficient, Bayesian Probability, Bayesian Parameter Estimation, Marginal Likelihood, Bayes Factors | PRML 1.2.1-1.2.3 |
-4       | 9/17  | Gaussian distribution, Maximum Likelihood, Bayesian curve fitting, Model selection (cross validation), Curse of dimensionality, Decision Theory         | PRML 1.2.4-1.4   |
-5       | 9/22  |                                                                                                                                                         |                  |
-6       | 9/24  |                                                                                                                                                         |                  |
+4       | 9/17  | Gaussian distribution, Maximum Likelihood, Bayesian curve fitting, Model selection (cross validation)                                                   | PRML 1.2.4-1.2.6 |
+5       | 9/22  | Curse of dimensionality, Decision Theory (classification)                                                                                               | PRML 1.3-1.5.4   |
+6       | 9/24  | Decision Theory (regression), Information Theory                                                                                                        | PRML 1.5.4-1.6   |
 7       | 9/29  |                                                                                                                                                         |                  | Register team
 8       | 10/1  |                                                                                                                                                         |                  |
 9       | 10/6  |                                                                                                                                                         |                  |
