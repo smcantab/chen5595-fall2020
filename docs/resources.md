@@ -144,6 +144,7 @@ In addition to the textbooks listed under [Organization/Books][1], you may find 
 
 - [The Matrix Cookbook](matrixcookbook.pdf) is a quick reference guide for matrix identities, relations, etc.
 - [d2l.ai Maths for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) is an informal overview of some of the mathematics required for this course, most of which you know already or that we will cover in the first part of the course.
+- [A Statistical Learning/Pattern Recognition Glossary](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/) by Thomas Minka
 - Datasets with Varied Appearance and Identical Statistics: **The datasaurus dataset**
     - [Paper](SameStats-DifferentGraphs.pdf)
     - [Blog](https://www.autodeskresearch.com/publications/samestats)
