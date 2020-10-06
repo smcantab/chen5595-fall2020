@@ -10,7 +10,7 @@ Lecture | Date  | Topic                                                         
 6       | 9/24  | Decision Theory (regression), Intro to Information Theory                                                                                               | PRML 1.5.4-1.6       |
 7       | 9/29  | Shannon Entropy, Huffman Coding, Physical Interpretation of Entropy, Lagrange Multipliers                                                               | PRML 1.6, Appendix E | Register team
 8       | 10/1  | Differential Entropy, Maximum Entropy Distributions, Conditional Entropy, Jensen's Inequality, KL Divergence                                            | PRML 1.6-1.6.1       |
-9       | 10/6  |                                                                                                                                                         |                      |
+9       | 10/6  | Mutual Information, Intro to Density Estimation, Bernoulli / Binomial / Multinomial distribution                                                        | PRML 1.6.1-2.2       |
 10      | 10/8  |                                                                                                                                                         |                      |
 11      | 10/13 |                                                                                                                                                         |                      | 1st TA sign-off deadline
 12      | 10/15 |                                                                                                                                                         |                      |
@@ -26,6 +26,6 @@ Lecture | Date  | Topic                                                         
 22      | 11/24 |                                                                                                                                                         |                      |
 23      | 12/1  | [B. Cheng](https://sites.google.com/site/tonicbq/about-me?authuser=0) guest talk                                                                        |                      | 2nd TA sign-off deadline
 24      | 12/3  | [J. Klicpera](https://www.in.tum.de/en/daml/team/johannes-klicpera/) guest talk                                                                         |                      |
-25      | 12/8  | [S. Schoenholz](https://samschoenholz.wordpress.com/) guest talk (date tbc)                                                                                                                                                        |                      |
-26      | 12/10 | [P. Wirnsberger](https://pw359.github.io/) guest talk talk                                                                                                                                                       |                      | Final report
+25      | 12/8  | [S. Schoenholz](https://samschoenholz.wordpress.com/) guest talk (date tbc)                                                                             |                      |
+26      | 12/10 | [P. Wirnsberger](https://pw359.github.io/) guest talk talk                                                                                              |                      | Final report
 27      | 12/15 |                                                                                                                                                         |                      | 20 min talk
