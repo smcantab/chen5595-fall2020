@@ -11,7 +11,7 @@ Lecture | Date  | Topic                                                         
 7       | 9/29  | Shannon Entropy, Huffman Coding, Physical Interpretation of Entropy, Lagrange Multipliers                                                               | PRML 1.6, Appendix E | Register team
 8       | 10/1  | Differential Entropy, Maximum Entropy Distributions, Conditional Entropy, Jensen's Inequality, KL Divergence                                            | PRML 1.6-1.6.1       |
 9       | 10/6  | Mutual Information, Intro to Density Estimation, Bernoulli / Binomial / Multinomial distribution                                                        | PRML 1.6.1-2.2       |
-10      | 10/8  |                                                                                                                                                         |                      |
+10      | 10/8  | Dirichlet distribution, Multivariate Gaussian (Geometric Interpretation), Partitioned Gaussians (Conditional and Marginal distributions)                | PRML 2.2.1-2.3.3     |
 11      | 10/13 |                                                                                                                                                         |                      | 1st TA sign-off deadline
 12      | 10/15 |                                                                                                                                                         |                      |
 13      | 10/20 |                                                                                                                                                         |                      | Project proposal
