@@ -7,7 +7,7 @@ The project is the focal point of this course. It will provide you with an oppor
 - **Register team** (names) by Sept 29 (Tu week 4)
 - **Project proposal** (1-2 pages) due Oct 20 (Tu week 7)
 - **Talk** (10 minutes) on Oct 22 (Th week 7)
-- **Progress report** (2-3 pages) on Nov 19 (Tu week 11)   
+- **Progress report** (2-3 pages) on Nov 19 (Th week 11)   
 - **Final report** on Dec 10 (Th week 14)
 - **Talk** (20 minutes) on Dec 15 (last day of instruction)
 
